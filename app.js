@@ -4,6 +4,7 @@ function App() {
  return (
  <div>
  <h2>React Functional Counter</h2>
+<h1>Program</h1>
  <h3>Count: {count}</h3>
  <button onClick={() => setCount(count + 1)}>
  Increment
